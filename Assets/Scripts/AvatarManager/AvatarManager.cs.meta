@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83390cfc8b6dad94eaeb00090794ac66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentAvatarDisplay: {instanceID: 0}
+  - scrollviewSelector: {instanceID: 0}
+  - avatarDatabase: {fileID: 11400000, guid: 8862eec4fb6de4f468c52eb444d392c1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
