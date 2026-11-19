@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: aa81d9b5-6c61-487a-9e22-456edd2c51c1
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: asia
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - SpawnBulletRPC
+  - RPC_MasterLeftRoom
+  - TakeDamageRPC
+  - RPC_FireBullet
+  - RPC_EndRound
+  - RPC_StartRound
+  - RPC_MasterCalculateDamage
+  - RPC_SyncHealth
+  - RPC_BeKicked
+  - RPC_SetArmor
+  - RPC_SyncHealthAndArmor
+  - RPC_AddArmor
+  - RPC_RemoveArmor
+  - RPC_ShowKillFeed
+  - RPC_Explode
+  - RPC_SetBombState
+  - RPC_SetDefuseHalfway
+  - RPC_SetInteractingPlayer
+  - RPC_PlayInteractSound
+  - PlayReloadSoundRPC
+  - RPC_SyncWeaponEquip
+  - RPC_PlayMeleeAnimation
+  - RPC_PerformShot
+  - RPC_Reload
+  - RPC_DoDamage
+  - RPC_SyncRagdollState
+  - RPC_DropItem
+  - RPC_DropItemWithHand
+  - RPC_EquipItem
+  - RPC_SwitchToItem
+  - RPC_UnequipItem
+  - TakeFallDamageRPC
+  - RPC_EmitBulletShell
+  - RPC_EmitBulletShell_Global
+  - RPC_TakeDamage
+  - RPC_SyncWeapon
+  - RPC_DoDamageWithInfo
+  - RPC_SetMatchResult
+  - RPC_ForfeitWin
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
