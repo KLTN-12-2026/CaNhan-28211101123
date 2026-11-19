@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - DeadZone
+  - VehicleArea
+  - Bullet
+  - Dirt
+  - Concrete
+  - Metal
+  - Loop
+  - RagdollZone
+  - Grass
+  - Stone
+  - Tiles
+  - Skin
+  - Enemy
+  - Distractable
+  - CoverTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerMovement
+  - Water
+  - UI
+  - Player
+  - GhostPlayer
+  - FirstPersonView
+  - Hitbox
+  - MiniMap
+  - Vehicle
+  - Character
+  - Bullet
+  - Terrain
+  - VehicleMeshCollider
+  - VehicleWheel
+  - Item
+  - Bones
+  - Walls
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
